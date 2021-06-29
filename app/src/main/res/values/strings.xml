@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentProcess</string>
+    <string name="Echo">Echo:</string>
+    <string name="click">Start_Calculator</string>
+</resources>
